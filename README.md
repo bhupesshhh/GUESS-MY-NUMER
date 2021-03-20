@@ -14,3 +14,10 @@ This is a sinple python based game built on simple python logic.
 
 I used random module, while and nested loops to make this game.
 
+In this game, Computer chooses a random number and we have to guess the correct answer. Computer gives responses compare to our guesses.
+
+If guess is less than correct answer, Computer replies with "too low"
+If guess is more than correct answer, Computer replies with "too high"
+If your guess is correct, COmputer detects it and shows the right answer.
+ 
+
